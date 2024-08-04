@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="371iKI2jMRDPn7_yzLwZ-18" value="If type is Household customer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-335.5" y="170.00000000000009" width="105" height="110" as="geometry" />
+          <mxGeometry x="-332.5" y="170.00000000000009" width="105" height="110" as="geometry" />
         </mxCell>
         <mxCell id="371iKI2jMRDPn7_yzLwZ-21" value="Number of types turn on" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="195.00000000000006" width="120" height="60" as="geometry" />
